@@ -1,0 +1,1 @@
+sqlldr CONTROL=H4.ctl   skip=1   

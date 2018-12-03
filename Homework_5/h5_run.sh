@@ -1,0 +1,1 @@
+sqlplus MASY_YL1665/MASY_YL1665@localhost:1521/app12c @h5.sql
